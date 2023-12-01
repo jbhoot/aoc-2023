@@ -2,3 +2,5 @@
 .scala-build
 .idea
 .DS_Store
+.metals
+.vscode
