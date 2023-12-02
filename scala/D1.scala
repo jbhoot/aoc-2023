@@ -63,7 +63,7 @@ object P2:
 @main
 def main(): Unit =
   val lines = scala.io.Source
-    .fromFile("../input/1.txt")
+    .fromFile("../input/d1.txt")
     .getLines
     .toList
   println(s"Part 1: ${P1.sum(lines)}")
