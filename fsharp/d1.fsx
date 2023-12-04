@@ -77,7 +77,7 @@ module P2 =
 
 let Main () =
     let lines =
-        "../input/D1.txt"
+        "../input/d1.txt"
         |> IO.File.ReadLines
     
     Console.WriteLine $"Part 1: {P1.Sum lines}"
