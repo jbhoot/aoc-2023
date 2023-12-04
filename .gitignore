@@ -4,3 +4,6 @@
 .DS_Store
 .metals
 .vscode
+_build
+_opam
+*~
