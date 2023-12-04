@@ -1,2 +1,3 @@
 (executables
- (names d1 d2))
+ (names d1 d2)
+ (libraries str))
